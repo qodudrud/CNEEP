@@ -4,4 +4,4 @@ Pytorch implementation of the convolutional neural estimator for entropy product
 
 I will upload the code as soon as prepared.
 
-T<sub>c=1
+T<sub>c<\sub>=1
