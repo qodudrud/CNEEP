@@ -1,11 +1,12 @@
 # CNEEP: Convolutional Neural Estimator for Entropy Production
 
-Pytorch implementation of the convolutional neural estimator for entropy production (CNEEP).
-
 Authors: Youngkyoung Bae<sup>1</sup>, Dong-Kyum Kim<sup>1</sup>, and Hawoong Jeong<sup>1,2</sup><br>
 
 <sup>1</sup> <sub>Department of Physics, KAIST</sub>
 <sup>2</sup> <sub>Center for Complex Systems, KAIST</sub>
+
+Pytorch implementation of the convolutional neural estimator for entropy production (CNEEP).
+
 
 ## Introduction
 
