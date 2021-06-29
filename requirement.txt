@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy==1.18.1
+tqdm
+matplotlib
+pandas
+scipy
+seaborn
+jupyter
+ipykernel
+ipython
