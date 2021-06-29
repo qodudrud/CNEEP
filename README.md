@@ -2,6 +2,11 @@
 
 Pytorch implementation of the convolutional neural estimator for entropy production (CNEEP).
 
+Authors: Youngkyoung Bae<sup>1</sup>, Dong-Kyum Kim<sup>1</sup>, and Hawoong Jeong<sup>1,2</sup><br>
+
+<sup>1</sup> <sub>Department of Physics, KAIST</sub>
+<sup>2</sup> <sub>Center for Complex Systems, KAIST</sub>
+
 ## Introduction
 
 This repository is for the code related to the paper "Attaining entropy production and dissipation maps from Brownian movies via neural networks".
