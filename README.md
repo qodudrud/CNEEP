@@ -10,7 +10,7 @@ Pytorch implementation of the convolutional neural estimator for entropy product
 
 ## Introduction
 
-This repository is for the code related to the paper "Attaining entropy production and dissipation maps from Brownian movies via neural networks".
+This repository is for the code related to the paper [Attaining entropy production and dissipation maps from Brownian movies via neural networks](https://arxiv.org/abs/2106.15108).
 
 ## Abstract
 
