@@ -19,7 +19,7 @@ This repository is for the code related to the paper [Inferring dissipation maps
 
 For living organisms at mesoscopic scales, attaining dissipation or entropy production (EP) is essential to gain an understanding of their nonequilibrium dynamics. However, when tracking the relevant variables is impractical, it is challenging to figure out where and to what extent dissipation occurs from recorded time-series images from experiments. In this paper, without detailed knowledge of the given systems, we develop an estimator that can quantify the stochastic EP and produce a spatiotemporal pattern of the EP (or dissipation map) from videos through an unsupervised learning algorithm. Applying a convolutional neural network (CNN), our estimator allows us to visualize where the dissipation occurs as well as its time evolution along a video by looking at an attention map of the CNN's last layer. We demonstrate that our estimator accurately measures the stochastic EP and provides a locally heterogeneous dissipation map, which is mainly concentrated in the origins of a nonequilibrium state, from generated Brownian videos of various models. We further confirm high performance even with noisy, low spatial resolution data, and partially observed situations. Our method will provide a practical way to obtain dissipation maps and ultimately contribute to uncovering the source and the dissipation mechanisms of complex nonequilibrium phenomena.
 
-<center><img src="fig1.png" width="80%"/></center>
+<center><img src="fig1.png" width="60%"/></center>
 
 ## Installation
 
