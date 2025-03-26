@@ -1,4 +1,4 @@
-# CNEEP: Convolutional Neural Estimator for Entropy Production
+# Inferring dissipation maps from videos using convolutional neural networks
 
 [![PRR](http://img.shields.io/badge/PRR-Phys.Rev.Research6.015062-CCDDF6)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033094)
 [![arxiv](https://img.shields.io/badge/arXiv-2106.15108-B31B1B)](https://arxiv.org/abs/2106.15108)
